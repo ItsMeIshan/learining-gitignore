@@ -1,0 +1,1 @@
+hey this is written by writeFileSync()hey this is written by writeFileSync()
